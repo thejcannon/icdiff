@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from icdiff import __version__
 
 setup(
-    name="icdiff",
+    name="icdiff-test",
     version=__version__,
     url="https://www.jefftk.com/icdiff",
     project_urls={
